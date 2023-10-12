@@ -1,0 +1,64 @@
+body{
+    background-color: #f4f4f4;
+    margin: 0px;
+}
+
+h3{
+    margin: 0px;
+}
+
+p{
+    margin: 0px;
+}
+
+/*Classes*/
+.reset{
+    clear: both;
+}
+
+/*ID's*/
+#pageContainer{
+    width: 855px;
+    margin: 0px auto 0px auto;
+    background-color: #ddb5b5;
+}
+
+#bannerPic{
+    margin: 21px 0px 0px 0px;
+    float: left;
+}
+
+#firstText{
+    width: 330px;
+    float: left;
+    margin: 20px 0px 0px 20px;
+}
+
+#creatorsPic{
+    margin: 20px 0px 0px 120px;
+    float: left;
+}
+
+#middleText{
+    margin: 50px 0px 0px 20px;
+    width: 812px;
+    float: left;
+}
+
+#bottomText{
+    margin: 50px 0px 0px 20px;
+    width: 330px;
+    float: left;
+}
+
+#snappiePic{
+    margin: 50px 0px 0px 120px;
+    float: left;
+}
+
+#snappieLyrics{
+    float: left;
+    height: 235px;
+    width: 361px;
+    margin: 0px 0px 0px 120px;
+}
